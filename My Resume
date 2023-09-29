@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Sindhu's Resume</title>
+</head>
+<body>
+
+	<table>
+		<tr>
+			<td><img style="float:left;" width="200" src="https://avatars.githubusercontent.com/u/127831367?s=400&u=a4c1d44ac0d59742fa18e8bd1b97ec32aff5a0d1&v=4" alt="Mudavath Sindhu"></td>
+			<td><h1 color:red >Mudavath Sindhu</h1>
+	<p><i> I'm persuing my Btech at Istitute of Aeronautical Engineering</i></p>
+	<p>I ❤️ Web Development and i'm very enthusiasts in learning innovative things 🚀</p><br>Gender:Female<br>Date of Birth:09-06-2003<br>Father's Name: M.Kishan</td>
+		</tr>
+
+	<hr>
+
+	
+	<table border="">
+		<tr>
+			<th>Course</th>
+			<th>Institute</th>
+			<th>Year</th>
+			<th>Result</th>
+		</tr>
+		<tr>
+			<td>SSC</td>
+			<td>Sri Saraswathi Convent High School</td>
+			<td>2019</td>
+			<td>98%</td>
+		</tr>
+		<tr>
+			<td>Intermediate</td>
+			<td>Sri Chaitanya IAS Acadamy</td>
+			<td>2021</td>
+			<td>90%</td>
+		</tr>
+		<tr>
+			<td>Btech</td>
+			<td>Institute of Aeronautical Engineering</td>
+			<td>Ongoing</td>
+			<td>90%</td>
+		</tr>
+	</table>
+
+	<h2>Internships</h2>
+	<p>Virtual internship at Codsoft</p>
+	<p>Virtual Internship at CodersCave(Python Programming)</p>
+	<p>Cyber Security Intern at TechnoHacks</p>
+
+	<h2>Projects</h2>
+	<ul>
+		<li>
+			<h3>Python Project</h3>
+			<p>Calculator,Quiz Game,Password Generator,Weather Forecast</p>
+		</li>
+		<li>
+			<h3>Web Development Projects</h3>
+			<p>Portfolio,Landing Page,Temperature Converter</p>
+		</li>
+	</ul>
+	<h2>Strength</h2>
+	<ul>
+		<li>
+			<p>Hardworking</p>
+			<li><p>Ability to Learn New Things</p></li>
+		</li>
+	</ul>
+	<hr>
+	<h2>Connect With Me</h2>
+	<p>Email : mudavathsindhu93@gmail.com</p>
+	<p>Github:https://github.com/sindhu132</p>
+	<p>Linkdin:www.linkedin.com/in/sindhu-mudavath-5a3a4b230</p>
+	<p>Phone Number : 9959039038</p>
+
+
+</body>
+</html>
